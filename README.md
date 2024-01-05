@@ -9,3 +9,5 @@ Retomando o react
 - Conceito de DRY (Don't Repeat Yourself)
 
 - Indentifique ONDE os dados precisam estar 
+
+- Fluxo de dados 
