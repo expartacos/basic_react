@@ -1,9 +1,7 @@
-const Square = () => {
+export const Square = () => {
     return(
-        <div className="w-12 h-16 bg-red-500 text-violet-500">
+        <div className="w-52 h-52 bg-red-500 text-violet-500">
             oi
         </div>
     );
 }
-
-export default Square;

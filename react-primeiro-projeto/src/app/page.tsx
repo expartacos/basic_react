@@ -1,13 +1,13 @@
-import Square from '@/componets/Square';
+import { GeoForms } from '@/componets/GeoForms';
 
 
 const Page = () => {
   return (
-    <div className='w- h-auto bg-violet-400'>
+    <div>
       <h1 className="fonte-bold text-yellow-600">Olá Mundo</h1>
       <h2>1% cada dia</h2>
 
-      <Square/>
+      <GeoForms/>
     </div>
   );
 }
