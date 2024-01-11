@@ -1,4 +1,5 @@
 import { GeoForms } from '@/componets/GeoForms';
+import { Person } from '@/componets/Person';
 
 
 const Page = () => {
@@ -8,6 +9,7 @@ const Page = () => {
       <h2>1% cada dia</h2>
 
       <GeoForms/>
+      <Person/>
     </div>
   );
 }

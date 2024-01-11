@@ -10,5 +10,5 @@ export const GeoForms = () => {
                 <Circle/>
             </div>
         </div>
-    )
+    );
 }
